@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710118773 source:c:\users\simour_e_fanida\music\new folder\my way\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
